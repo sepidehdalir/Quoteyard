@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-label="QuoteYard mark">
+  
+  <g fill="none" stroke="#111111" stroke-width="36" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="190" y="300" width="620" height="370" rx="104"/>
+    <path d="M314 670 L314 760 L415 670"/>
+  </g>
+  <text x="360" y="555" font-family="Inter, Helvetica, Arial, sans-serif" font-size="170" font-weight="800" fill="#111111">””</text>
+</svg>

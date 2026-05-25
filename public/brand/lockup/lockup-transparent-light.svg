@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="700" viewBox="0 0 1600 700" role="img" aria-label="QuoteYard - Lead &amp; Quote Management">
+  
+  <g fill="none" stroke="#FFFFFF" stroke-width="12" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="170" y="190" width="250" height="150" rx="42"/>
+    <path d="M220 340 L220 376 L260 340"/>
+  </g>
+  <text x="240" y="282" font-family="Inter, Helvetica, Arial, sans-serif" font-size="76" font-weight="800" fill="#FFFFFF">””</text>
+  <text x="500" y="272" font-family="Inter, Helvetica, Arial, sans-serif" font-size="92" font-weight="800" letter-spacing="-3" fill="#FFFFFF">QuoteYard</text>
+  <text x="508" y="360" font-family="Inter, Helvetica, Arial, sans-serif" font-size="40" font-weight="400" letter-spacing="5" fill="#CBD5E1">Lead &amp; Quote Management</text>
+</svg>
